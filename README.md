@@ -21,7 +21,7 @@ I'm an enthusiastic first-year IT student specializing in web development with D
 ## 🌟 Featured Projects
 
 ### [Hand Gesture](https://github.com/mego354/Hand-Gesture-Project)
-a Django web application designed to facilitate real-time communication between a deaf person.
+A Django web application designed to facilitate real-time communication between a deaf person.
 - **Technologies Used**: Django, JavaScript, TensorFlow, Keras, OpenCV, WebRTC API
 - **Features**: using machine learning to translate hand gestures into text, videos and voice, text to hand gestures videos.
 
