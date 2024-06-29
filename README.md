@@ -43,7 +43,7 @@ A web-based system developed for my university to streamline the attendance trac
 
 ## 📈 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mego354&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mego354&theme=radical)
 
 ## 📫 Contact Me
 
