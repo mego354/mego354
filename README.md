@@ -41,9 +41,9 @@ A web-based system developed for my university to streamline the attendance trac
 - **Achievements**: Improved data management efficiency and accuracy.
 
 
-## 📈 GitHub Stats
+## 📈 Top Langs
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mego354&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mego354&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
