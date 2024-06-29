@@ -20,6 +20,11 @@ I'm an enthusiastic first-year IT student specializing in web development with D
 
 ## 🌟 Featured Projects
 
+### [Hand Gesture](https://github.com/mego354/Hand-Gesture-Project)
+a Django web application designed to facilitate real-time communication between a deaf person.
+- **Technologies Used**: Django, JavaScript, TensorFlow, Keras, OpenCV, WebRTC API
+- **Features**: using machine learning to translate hand gestures into text, videos and voice, text to hand gestures videos.
+
 ### [Store Management System](https://github.com/mego354/Al-Asel)
 A comprehensive system for managing store operations, including inventory and sales analysis.
 - **Technologies Used**: Django, HTML, CSS, JavaScript, Chart.js, Google Charts, SQlite
@@ -34,11 +39,6 @@ A Twitter simulator application developed as a project for the CS50W course.
 A web-based system developed for my university to streamline the attendance tracking process.
 - **Technologies Used**: Flask, HTML, CSS, SQlite
 - **Achievements**: Improved data management efficiency and accuracy.
-
-### [Mail](https://github.com/mego354/Mail)
-A Gmail simulator application developed as a project for the CS50W course.
-- **Technologies Used**: Python, Django, HTML, CSS, JavaScript, SQlite
-- **Features**: a single-page email client interact with a provided API to manage emails within a simulated inbox, sent mailbox, and archive.
 
 
 ## 📈 GitHub Stats
