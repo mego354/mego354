@@ -13,7 +13,7 @@ I'm an enthusiastic first-year IT student specializing in web development with D
 ## 🔧 Technologies & Skills
 
 - **Languages**: C, Python, JavaScript, SQL
-- **Frameworks**: Django, Flask
+- **Frameworks**: Django, Flask, Bootstrap
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, Chart.js, Google Charts
 - **Other Skills**: Project Management, Critical Thinking
@@ -22,7 +22,7 @@ I'm an enthusiastic first-year IT student specializing in web development with D
 
 ### [Hand Gesture](https://github.com/mego354/Hand-Gesture-Project)
 A Django web application designed to facilitate real-time communication between a deaf person.
-- **Technologies Used**: Django, JavaScript, TensorFlow, Keras, OpenCV, WebRTC API
+- **Technologies Used**: Django, JavaScript, Bootstrap, TensorFlow, Keras, OpenCV, WebRTC API
 - **Features**: using machine learning to translate hand gestures into text, videos and voice, text to hand gestures videos.
 
 ### [Store Management System](https://github.com/mego354/Al-Asel)
