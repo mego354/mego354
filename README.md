@@ -20,25 +20,28 @@ I'm an enthusiastic first-year IT student specializing in web development with D
 
 ## 🌟 Featured Projects
 
+### [Android APK Automation Testing with Appium](https://github.com/mego354/Automation-Testing)
+A Django web application built to automate testing of APK files on Android devices using Appium. Task completed for Tradvo Inc.
+- **Technologies Used**: Django, Appium, Android Studio, MySQL, Java, Node.js
+- **Features**: Automated APK testing, integration with Android emulators, user-friendly interface, real-time feedback and error tracking.
+
 ### [Hand Gesture](https://github.com/mego354/Hand-Gesture-Project)
 A Django web application designed to facilitate real-time communication between a deaf person.
 - **Technologies Used**: Django, JavaScript, Bootstrap, TensorFlow, Keras, OpenCV, WebRTC API
 - **Features**: using machine learning to translate hand gestures into text, videos and voice, text to hand gestures videos.
 
+### [Attendance Management System](https://github.com/mego354/Attendance-Management)
+A web-based system developed for my university to streamline the attendance tracking process.
+• Developed a web-based attendance management system using Django.
+• Integrated lecture details on screens in lecture halls.
+• Streamlined attendance tracking, improving efficiency and data accuracy.
+- **Technologies Used**: Django, HTML, CSS, JavaScript, MySQL and DGUS software for LCD screen
+- **Achievements**: Improved data management efficiency and accuracy.
+
 ### [Store Management System](https://github.com/mego354/Al-Asel)
 A comprehensive system for managing store operations, including inventory and sales analysis.
 - **Technologies Used**: Django, HTML, CSS, JavaScript, Chart.js, Google Charts, SQlite
 - **Features**: Dynamic search, graphical sales data representation, user-friendly interfaces.
-
-### [Network (Twitter Simulator)](https://github.com/mego354/network)
-A Twitter simulator application developed as a project for the CS50W course.
-- **Technologies Used**: Python, Django, HTML, CSS, JavaScript, SQlite
-- **Features**: Follow and like functionalities, API integration for seamless social interaction simulation.
-
-### [Attendance Management System](https://github.com/mego354/CS50x)
-A web-based system developed for my university to streamline the attendance tracking process.
-- **Technologies Used**: Flask, HTML, CSS, SQlite
-- **Achievements**: Improved data management efficiency and accuracy.
 
 
 ## 📈 Top Langs
