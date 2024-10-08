@@ -1,14 +1,12 @@
 # Hi there, I'm Mahmoud Megahd 👋
 
-I'm an enthusiastic first-year IT student specializing in web development with Django. I love creating impactful solutions and continuously learning new technologies.
-
 ## 📚 About Me
 
-- **Education**: Bachelor of Science in Information Technology, Borg El Arab Technological University
-- **Email**: mahmoudmegahd010000@gmail.com
+I'm an enthusiastic second-year IT student specializing in web development with Django. I love creating impactful solutions and continuously learning new technologies.
+
 - **Location**: Alexandria, Egypt
+- **Education**: Bachelor of Science in Information Technology, Borg El Arab Technological University
 - **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoud-megahd-0b923227a/)
-- **GitHub**: [mego354](https://github.com/mego354)
 
 ## 🔧 Technologies & Skills
 
@@ -54,6 +52,7 @@ A comprehensive system for managing store operations, including inventory and sa
 - **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoud-megahd-0b923227a/)
 - **Instagram**: [mahmoud__megahd](https://www.instagram.com/mahmoud__megahd/)
 - **WhatsApp**: [+201026004642](https://wa.me/201026004642)
+- **GitHub**: [mego354](https://github.com/mego354)
 
 ## 🏆 Certifications
 
