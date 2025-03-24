@@ -20,7 +20,7 @@ I'm an enthusiastic second-year IT student specializing in web development with 
 
 ### [Production and Packaging Management System](https://github.com/mego354/Honest)
 A Django-based web application designed to streamline production and packaging processes in factories.
-- **Technologies Used**: Django, Bootstrap, JavaScript, PostgreSQL
+- **Technologies Used**: Django, Bootstrap, JavaScript
 - **Features**:  
   - Model management (creation, archiving, and shipping status tracking)  
   - Size and quantity tracking for models  
