@@ -11,12 +11,24 @@ I'm an enthusiastic second-year IT student specializing in web development with 
 ## 🔧 Technologies & Skills
 
 - **Languages**: C, Python, JavaScript, SQL
-- **Frameworks**: Django, Flask, Bootstrap
+- **Frameworks**: Django, Flask, Bootstrap, Tailwind
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, Chart.js, Google Charts
 - **Other Skills**: Project Management, Critical Thinking
 
 ## 🌟 Featured Projects
+
+### [Production and Packaging Management System](https://github.com/mego354/Honest)
+A Django-based web application designed to streamline production and packaging processes in factories.
+- **Technologies Used**: Django, Bootstrap, JavaScript, PostgreSQL
+- **Features**:  
+  - Model management (creation, archiving, and shipping status tracking)  
+  - Size and quantity tracking for models  
+  - Piece management with available and used amounts  
+  - Factory management with status tracking  
+  - Carton and packaging tracking  
+  - PDF report generation for production insights  
+- **Achievements**: Improved operational efficiency by centralizing production and packaging data.
 
 ### [Android APK Automation Testing with Appium](https://github.com/mego354/Automation-Testing)
 A Django web application built to automate testing of APK files on Android devices using Appium. Task completed for Tradvo Inc.
