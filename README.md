@@ -18,6 +18,19 @@ I'm an enthusiastic second-year IT student specializing in web development with 
 
 ## 🌟 Featured Projects
 
+### [Tailwind Car App - E-commerce for Car Parts](https://megahd.pythonanywhere.com/)
+A Django-based **E-commerce platform** built with **Tailwind CSS**, designed for selling car parts online.  
+
+- **Technologies Used**: Django, Tailwind CSS, SQLite, JavaScript, HTML5, CSS3  
+- **Features**:  
+  - User authentication (Login, Register, Logout)  
+  - Product listing with images and descriptions  
+  - Shopping cart functionality  
+  - Secure checkout process  
+  - Admin dashboard for product and order management  
+  - Responsive design with **Tailwind CSS**  
+- **Achievements**: Provides a smooth and modern shopping experience with a sleek UI.  
+
 ### [Production and Packaging Management System](https://github.com/mego354/Honest)
 A Django-based web application designed to streamline production and packaging processes in factories.
 - **Technologies Used**: Django, Bootstrap, JavaScript
