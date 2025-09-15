@@ -6,7 +6,7 @@ I'm an enthusiastic second-year IT student specializing in web development with 
 
 - **Location**: Alexandria, Egypt
 - **Education**: Bachelor of Science in Information Technology, Borg El Arab Technological University
-- **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoud-megahd-0b923227a/)
+- **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoudmegahd/)
 
 ## 🔧 Technologies & Skills
 
