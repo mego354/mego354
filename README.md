@@ -1,86 +1,111 @@
-# Hi there, I'm Mahmoud Megahd 👋
+# 👋 Hi there, I'm **Mahmoud Megahd**
 
-## 📚 About Me
+## 📚 About Me  
 
-I'm an enthusiastic third-year IT student specializing in web development with Django. I love creating impactful solutions and continuously learning new technologies.
+💻 Third-year IT student passionate about **web development** with Django.  
+⚡ Always curious, always learning — turning ideas into impactful solutions.  
 
-- **Location**: Alexandria, Egypt
-- **Education**: Bachelor of Science in Information Technology, Borg El Arab Technological University
-- **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoudmegahd/)
-- **Portfolio**: [My Portfolio](https://mego354.github.io/mego354/)
+- 🌍 **Location**: Alexandria, Egypt  
+- 🎓 **Education**: B.Sc. in Information Technology @ Borg El Arab Technological University  
+- 🔗 **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoudmegahd/)  
+- 🌐 **Portfolio**: [mego354.github.io](https://mego354.github.io/mego354/)  
 
-## 🔧 Technologies & Skills
+---
 
-- **Languages**: C, Python, JavaScript, SQL
-- **Frameworks**: Django, Flask, Bootstrap, Tailwind
-- **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, Chart.js, Google Charts
-- **Other Skills**: Project Management, Critical Thinking
+## 🛠️ Tech Stack  
 
-## 🌟 Featured Projects
+- 💡 **Languages**: C, Python, JavaScript, SQL  
+- 🧩 **Frameworks**: Django, Flask, Bootstrap, Tailwind  
+- 🌐 **Web Dev**: HTML, CSS, JavaScript  
+- 🔧 **Tools**: Git, GitHub, Chart.js, Google Charts  
+- 🧠 **Soft Skills**: Project Management, Critical Thinking  
 
-### [Tailwind Car App - E-commerce for Car Parts](https://github.com/mego354/Tailwind-car-app)
-A Django-based **E-commerce platform** built with **Tailwind CSS**, designed for selling car parts online.  
+---
 
-- **Technologies Used**: Django, Tailwind CSS, SQLite, JavaScript, HTML5, CSS3  
-- **Features**:  
-  - User authentication (Login, Register, Logout)  
-  - Product listing with images and descriptions  
-  - Shopping cart functionality  
-  - Secure checkout process  
-  - Admin dashboard for product and order management  
-  - Responsive design with **Tailwind CSS**  
-- **Achievements**: Provides a smooth and modern shopping experience with a sleek UI.  
+## 🚀 Featured Projects  
 
-### [Production and Packaging Management System](https://github.com/mego354/Honest)
-A Django-based web application designed to streamline production and packaging processes in factories.
-- **Technologies Used**: Django, Bootstrap, JavaScript
-- **Features**:  
-  - Model management (creation, archiving, and shipping status tracking)  
-  - Size and quantity tracking for models  
-  - Piece management with available and used amounts  
-  - Factory management with status tracking  
-  - Carton and packaging tracking  
-  - PDF report generation for production insights  
-- **Achievements**: Improved operational efficiency by centralizing production and packaging data.
+### 🔹 [Tailwind Car App](https://github.com/mego354/Tailwind-car-app)  
+**E-commerce platform** for car parts using **Django + Tailwind CSS**.  
 
-### [Android APK Automation Testing with Appium](https://github.com/mego354/Automation-Testing)
-A Django web application built to automate testing of APK files on Android devices using Appium. Task completed for Tradvo Inc.
-- **Technologies Used**: Django, Appium, Android Studio, MySQL, Java, Node.js
-- **Features**: Automated APK testing, integration with Android emulators, user-friendly interface, real-time feedback and error tracking.
+✨ **Highlights**:  
+- Secure login & authentication  
+- Product listings with images  
+- Shopping cart + checkout  
+- Admin dashboard for management  
+- Responsive Tailwind UI  
 
-### [Hand Gesture](https://github.com/mego354/Hand-Gesture-Project)
-A Django web application designed to facilitate real-time communication between a deaf person.
-- **Technologies Used**: Django, JavaScript, Bootstrap, TensorFlow, Keras, OpenCV, WebRTC API
-- **Features**: using machine learning to translate hand gestures into text, videos and voice, text to hand gestures videos.
+---
 
-### [Attendance Management System](https://github.com/mego354/Attendance-Management)
-A web-based system developed for my university to streamline the attendance tracking process.
-• Developed a web-based attendance management system using Django.
-• Integrated lecture details on screens in lecture halls.
-• Streamlined attendance tracking, improving efficiency and data accuracy.
-- **Technologies Used**: Django, HTML, CSS, JavaScript, MySQL and DGUS software for LCD screen
-- **Achievements**: Improved data management efficiency and accuracy.
+### 🔹 [Production & Packaging Management System](https://github.com/mego354/Honest)  
+Factory-focused **Django app** for managing models, sizes, and packaging.  
 
-### [Store Management System](https://github.com/mego354/Al-Asel)
-A comprehensive system for managing store operations, including inventory and sales analysis.
-- **Technologies Used**: Django, HTML, CSS, JavaScript, Chart.js, Google Charts, SQlite
-- **Features**: Dynamic search, graphical sales data representation, user-friendly interfaces.
+📦 **Key Features**:  
+- Model & piece tracking  
+- Quantity management  
+- Carton & packaging workflows  
+- PDF reports for insights  
 
+---
 
-## 📈 Top Langs
+### 🔹 [Android APK Automation Testing](https://github.com/mego354/Automation-Testing)  
+App testing automation with **Appium + Django**.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mego354&layout=compact&theme=radical)
+🤖 **Capabilities**:  
+- Automated APK testing  
+- Emulator integration  
+- Real-time feedback & logs  
 
-## 📫 Contact Me
+---
 
-- **Email**: [mahmoudmegahd010000@gmail.com](mailto:mahmoudmegahd010000@gmail.com)
-- **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoud-megahd-0b923227a/)
-- **Instagram**: [mahmoud__megahd](https://www.instagram.com/mahmoud__megahd/)
-- **WhatsApp**: [+201026004642](https://wa.me/201026004642)
-- **GitHub**: [mego354](https://github.com/mego354)
+### 🔹 [Hand Gesture Project](https://github.com/mego354/Hand-Gesture-Project)  
+Bridging communication for the deaf using **AI + WebRTC**.  
 
-## 🏆 Certifications
+✋ **Features**:  
+- Gesture → Text/Voice translation  
+- Text → Gesture video animations  
+- Real-time machine learning with TensorFlow  
 
-- [Introduction to Computer Science (CS50x)](https://certificates.cs50.io/6fc6d917-bb54-42ae-b0e5-f05bdc756d71.pdf?size=letter) from HarvardX
-- [Web Programming with Python and JavaScript (CS50W)](https://certificates.cs50.io/2ccf289b-7f0a-4815-9476-d05daf3838a9.pdf?size=letter) from HarvardX
+---
+
+### 🔹 [Attendance Management System](https://github.com/mego354/Attendance-Management)  
+University attendance tracker with **Django**.  
+
+📊 **Achievements**:  
+- Integrated lecture screens  
+- Faster & more accurate tracking  
+
+---
+
+### 🔹 [Store Management System](https://github.com/mego354/Al-Asel)  
+All-in-one solution for **inventory & sales analysis**.  
+
+📈 **Features**:  
+- Graphical sales dashboards  
+- Dynamic search  
+- Clean & responsive UI  
+
+---
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mego354&layout=compact&theme=radical)  
+
+---
+
+## 📫 Let’s Connect  
+
+- 📧 **Email**: [mahmoudmegahd010000@gmail.com](mailto:mahmoudmegahd010000@gmail.com)  
+- 💼 **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoud-megahd-0b923227a/)  
+- 📸 **Instagram**: [@mahmoud__megahd](https://www.instagram.com/mahmoud__megahd/)  
+- 💬 **WhatsApp**: [+201026004642](https://wa.me/201026004642)  
+- 🐙 **GitHub**: [mego354](https://github.com/mego354)  
+
+---
+
+## 🏆 Certifications  
+
+- 🎓 [CS50x: Introduction to Computer Science](https://certificates.cs50.io/6fc6d917-bb54-42ae-b0e5-f05bdc756d71.pdf?size=letter) — HarvardX  
+- 🎓 [CS50W: Web Programming with Python & JavaScript](https://certificates.cs50.io/2ccf289b-7f0a-4815-9476-d05daf3838a9.pdf?size=letter) — HarvardX  
+
+---
+✨ _Always building, always learning._  
