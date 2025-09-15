@@ -2,11 +2,12 @@
 
 ## 📚 About Me
 
-I'm an enthusiastic second-year IT student specializing in web development with Django. I love creating impactful solutions and continuously learning new technologies.
+I'm an enthusiastic third-year IT student specializing in web development with Django. I love creating impactful solutions and continuously learning new technologies.
 
 - **Location**: Alexandria, Egypt
 - **Education**: Bachelor of Science in Information Technology, Borg El Arab Technological University
 - **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoudmegahd/)
+- **Portfolio**: [My Portfolio](https://mego354.github.io/mego354/)
 
 ## 🔧 Technologies & Skills
 
@@ -18,7 +19,7 @@ I'm an enthusiastic second-year IT student specializing in web development with 
 
 ## 🌟 Featured Projects
 
-### [Tailwind Car App - E-commerce for Car Parts](https://megahd.pythonanywhere.com/)
+### [Tailwind Car App - E-commerce for Car Parts](https://mego354.github.io/Tailwind-car-app/)
 A Django-based **E-commerce platform** built with **Tailwind CSS**, designed for selling car parts online.  
 
 - **Technologies Used**: Django, Tailwind CSS, SQLite, JavaScript, HTML5, CSS3  
