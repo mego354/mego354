@@ -19,7 +19,7 @@ I'm an enthusiastic third-year IT student specializing in web development with D
 
 ## 🌟 Featured Projects
 
-### [Tailwind Car App - E-commerce for Car Parts](https://mego354.github.io/Tailwind-car-app/)
+### [Tailwind Car App - E-commerce for Car Parts](https://github.com/mego354/Tailwind-car-app)
 A Django-based **E-commerce platform** built with **Tailwind CSS**, designed for selling car parts online.  
 
 - **Technologies Used**: Django, Tailwind CSS, SQLite, JavaScript, HTML5, CSS3  
