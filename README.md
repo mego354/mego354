@@ -25,7 +25,7 @@
 ## 🚀 Featured Projects  
 
 ### 🔹 [Tailwind Car App](https://github.com/mego354/Tailwind-car-app)  
-**E-commerce platform** for car parts using **Django + Tailwind CSS**.  
+**E-commerce platform** for car parts using **Django + Tailwind CSS [Watch Demo Page](https://mego354.github.io/Tailwind-car-app/)**.  
 
 ✨ **Highlights**:  
 - Secure login & authentication  
@@ -48,7 +48,7 @@ Factory-focused **Django app** for managing models, sizes, and packaging.
 ---
 
 ### 🔹 [Android APK Automation Testing](https://github.com/mego354/Automation-Testing)  
-App testing automation with **Appium + Django**.  
+App testing automation with **Appium + Django** [Watch Demo Page](https://mego354.github.io/Automation-Testing/).  
 
 🤖 **Capabilities**:  
 - Automated APK testing  
@@ -68,7 +68,7 @@ Bridging communication for the deaf using **AI + WebRTC**.
 ---
 
 ### 🔹 [Attendance Management System](https://github.com/mego354/Attendance-Management)  
-University attendance tracker with **Django**.  
+University attendance tracker with **Django** [Watch Demo Page](https://mego354.github.io/Attendance-Management/).  
 
 📊 **Achievements**:  
 - Integrated lecture screens  
@@ -77,7 +77,7 @@ University attendance tracker with **Django**.
 ---
 
 ### 🔹 [Store Management System](https://github.com/mego354/Al-Asel)  
-All-in-one solution for **inventory & sales analysis**.  
+All-in-one solution for **inventory & sales analysis** [Watch Demo Page](https://mego354.github.io/Al-Asel/).  
 
 📈 **Features**:  
 - Graphical sales dashboards  
