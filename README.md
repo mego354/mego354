@@ -7,7 +7,6 @@
 
 - 🌍 **Location**: Alexandria, Egypt  
 - 🎓 **Education**: B.Sc. in Information Technology @ Borg El Arab Technological University  
-- 🔗 **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoudmegahd/)  
 - 🌐 **Portfolio**: [mego354.github.io](https://mego354.github.io/mego354/)  
 
 ---
@@ -58,7 +57,7 @@ App testing automation with **Appium + Django** [Watch Demo Page](https://mego35
 ---
 
 ### 🔹 [Hand Gesture Project](https://github.com/mego354/Hand-Gesture-Project)  
-Bridging communication for the deaf using **AI + WebRTC**.  
+Bridging communication for the deaf using **AI + WebRTC** [Watch Demo Page](https://mego354.github.io/Hand-Gesture-Project/).    
 
 ✋ **Features**:  
 - Gesture → Text/Voice translation  
@@ -95,7 +94,6 @@ All-in-one solution for **inventory & sales analysis** [Watch Demo Page](https:/
 ## 📫 Let’s Connect  
 
 - 📧 **Email**: [mahmoudmegahd010000@gmail.com](mailto:mahmoudmegahd010000@gmail.com)  
-- 💼 **LinkedIn**: [Mahmoud Megahd](http://www.linkedin.com/in/mahmoud-megahd-0b923227a/)  
 - 📸 **Instagram**: [@mahmoud__megahd](https://www.instagram.com/mahmoud__megahd/)  
 - 💬 **WhatsApp**: [+201026004642](https://wa.me/201026004642)  
 - 🐙 **GitHub**: [mego354](https://github.com/mego354)  
